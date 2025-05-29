@@ -22,11 +22,11 @@ You can try the game [here](https://halimxyz.github.io/Guess-My-Number/)
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/d37d65dd-cd10-4f60-bbd2-4afa4203cd88)
+![Game Start](https://github.com/user-attachments/assets/d37d65dd-cd10-4f60-bbd2-4afa4203cd88)
 
-![image_2025-05-29_10-23-05](https://github.com/user-attachments/assets/a50be967-11ef-4262-a8ef-ca899a9ee83f)
+![Win](https://github.com/user-attachments/assets/a50be967-11ef-4262-a8ef-ca899a9ee83f)
 
-![image_2025-05-29_10-23-36](https://github.com/user-attachments/assets/7716e068-0223-4bf5-af8f-7a8f0c7e642b)
+![Lose](https://github.com/user-attachments/assets/7716e068-0223-4bf5-af8f-7a8f0c7e642b)
 
 
 ## 📁 Getting Started
