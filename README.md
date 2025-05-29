@@ -35,7 +35,8 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Halimxyz/Guess-My-Number.git````
+   git clone https://github.com/Halimxyz/Guess-My-Number.git
+   ````
 
 2. Open `index.html` in your browser.
 
