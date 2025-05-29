@@ -20,7 +20,7 @@ document.querySelector('.check').addEventListener('click', function () {
         displayMessage('You already solved it!!');
         return
     }
-    if (!guess /* && guess != 0 */) { displayMessage('⛔ No number'); return; }
+    if (!guess && guess != 0) { displayMessage('⛔ No number'); return; }
     if (guess === secretNum) {
         displayMessage('Correct 🎉');
         solved = true;
